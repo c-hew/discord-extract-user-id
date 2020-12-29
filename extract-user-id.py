@@ -10,7 +10,7 @@ with open(file, "r", encoding="utf-8") as f:
     output = re.findall("data-user-id=\"(.*?)\"", fin)
     print(output)
 
-fout = open(infilename, "a", encoding='UTF8')
+fout = open(infilename, "a", encoding='utf-8')
 for item in output:
     fout.write(item)
     fout.write("\n")
