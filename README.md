@@ -5,4 +5,4 @@ Just run the code by using `python3 extract-user-id.py` in the intended folder w
 I am not good at python 2 so I am unsure if it works on python 2.
 
 ## Expected output
-<img src="/imgs/expected-output.png" width="100">
+<img src="/imgs/expected-output.png" width="300">
