@@ -1,6 +1,6 @@
- import time
+import re 
+import time
 startTime = time.time()
-import re
 from os import listdir
 from os.path import isfile, join
 mypath = "./"
