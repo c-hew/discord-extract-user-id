@@ -1,4 +1,4 @@
-import time
+ import time
 startTime = time.time()
 import re
 from os import listdir
